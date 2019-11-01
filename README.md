@@ -24,7 +24,7 @@ Dataset terkait APBN Indonesia dan APBD seluruh provinsi di Indonesia per tahunn
 
 
 ## Referensi
-+ [UU APBN dan Nota Keuangan](https://www.kemenkeu.go.id/informasi-publik/uu-apbn-dan-nota-keuangan/)
-+ [APBD, Realisasi APBD, dan Neraca](http://www.djpk.kemenkeu.go.id/?p=5412)
-+ [Evaluasi APBD](http://keuda.kemendagri.go.id/evaluasiapbd)
++ [UU APBN dan Nota Keuangan - Kementrian Keuangan](https://www.kemenkeu.go.id/informasi-publik/uu-apbn-dan-nota-keuangan/)
++ [APBD, Realisasi APBD, dan Neraca - Perimbangan Keuangan - Kementrian Keuangan](http://www.djpk.kemenkeu.go.id/?p=5412)
++ [Evaluasi APBD - Dirjen Bina Keuangan Daerah - Kementrian Dalam Negeri](http://keuda.kemendagri.go.id/evaluasiapbd)
 + [info-anggaran.com](https://info-anggaran.com)
