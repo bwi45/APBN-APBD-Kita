@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/14702071)
 
 # APBN APBD Kita
-Dataset terkait APBN Indonesia dan APBD seluruh provinsi di Indonesia per tahunnya.
+Dataset terkait Anggaran Pendapatan dan Belanja Negara (APBN) Indonesia dan Anggaran Pendapatan dan Belanja Daerah (APBD) seluruh provinsi di Indonesia per tahunnya.
 
 + [**Perimbangan Keuangan - Kementrian Keuangan**](http://www.djpk.kemenkeu.go.id/)
 + [**Dirjen Bina Keuangan Daerah - Kementrian Dalam Negeri**](http://keuda.kemendagri.go.id/)
