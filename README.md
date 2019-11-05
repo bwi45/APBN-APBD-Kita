@@ -1,7 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![HitCount](http://hits.dwyl.com/Banyuwangi45/APBN-APBD-Kita.svg)](http://hits.dwyl.com/Banyuwangi45/APBN-APBD-Kita)
+![GitHub repo size](https://img.shields.io/github/repo-size/Banyuwangi45/APBN-APBD-Kita)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Banyuwangi45/APBN-APBD-Kita)
 ![GitHub contributors](https://img.shields.io/github/contributors/Banyuwangi45/APBN-APBD-Kita)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Banyuwangi45/APBN-APBD-Kita)
+[![HitCount](http://hits.dwyl.com/Banyuwangi45/APBN-APBD-Kita.svg)](http://hits.dwyl.com/Banyuwangi45/APBN-APBD-Kita)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/14702071)
 
 # APBN APBD Kita!
