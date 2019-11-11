@@ -24,6 +24,71 @@ Dataset terkait Anggaran Pendapatan dan Belanja Negara (APBN) Indonesia dan Angg
   + **Nusa Tenggara:** [East Nusa Tenggara]() | [West Nusa Tenggara]()
   + **Papua:** [Papua]() | [West Papua]() 
 
+## Badan Pengelola Keuangan dan Aset Daerah (BPKAD)
+#### Sumatra
++ [**Aceh**](): [Banda Aceh]() (capital) | [Langsa]() | [Lhokseumawe]() | [Meulaboh]() | [Sabang]() | [Subulussalam]()
++ [**North Sumatra**](): [Medan]() (capital) | [Binjai]() | [Padang Sidempuan]() | [Pematangsiantar]() | [Sibolga]() | [Tanjungbalai]() | [Tebingtinggi]()
++ [**West Sumatra**](): [Padang]() (capital) | [Bukittinggi]() | [Padangpanjang]() | [Pariaman]() | [Payakumbuh]() | [Sawahlunto]() | [Solok]()
++ [**Riau**](): [Pekanbaru]() (capital) | [Dumai]()
++ [**Riau Islands**](): [Tanjung Pinang]() (capital) | [Batam]()
++ [**Jambi**](): [Kota Jambi]() (capital) | [Sungai Penuh]()
++ [**Bengkulu**](): [Kota Bengkulu]() (capital)
++ [**South Sumatra**](): [Palembang]() (capital) | [Lubuklinggau]() | [Pagaralam]() | [Prabumulih]() 
++ [**Bangka Belitung Islands**](): [Pangkalpinang]() (capital)
++ [**Lampung**](): [Bandar Lampung]() (capital) | [Metro]()
+
+#### Java
++ [**Banten**](): [Serang]() (capital) | [Cilegon]() | [Tangerang Selatan]() | [Tangerang]()
++ [**D.K.I. Jakarta**](): [Center Jakarta]() (capital) | [Jakarta Barat]() | [Jakarta Selatan]() | [Jakarta Timur]() | [Jakarta Utara]()
++ [**West Java**](): [Bandung]() (capital) | [Bekasi]() | [Bogor]() | [Cimahi]() | [Cirebon]() | [Depok]() | [Sukabumi]() | [Tasikmalaya]() | [Banjar]()
++ [**Center Java**](): [Semarang]() (capital) | [Magelang]() | [Pekalongan]() | [Purwokerto]() | [Salatiga]() | [Surakarta]() | [Tegal]()
++ [**D.I. Yogyakarta**](): [Yogyakarta]() (capital)
++ [**East Java**](): [Surabaya]() (capital) | [Malang]() | [Batu]() | [Blitar]() | [Kediri]() | [Madiun]() | [Mojokerto]() | [Pasuruan]() | [Probolinggo]()
+
+#### Kalimantan
++ [**West Kalimantan**](): [Pontianak]() (capital) | [Singkawang]()
++ [**Center Kalimantan**](): [Palangkaraya]() (capital)
++ [**South Kalimantan**](): [Banjarmasin]() (capital) | [Banjarbaru]()
++ [**East Kalimantan**](): [Samarinda]() (capital) | [Balikpapan]() | [Bontang]()
++ [**North Kalimantan**](): [Tarakan]() (capital)
+
+#### Sulawesi
++ [**South Sulawesi**](): [Makassar]() (capital) | [Palopo]() | [Parepare]()
++ [**Center Sulawesi**](): [Palu]() (capital)
++ [**Southeast Sulawesi**](): [Kendari]() (capital) | [Bau-Bau]()
++ [**Gorontalo**](): [Kota Gorontalo]() (capital)
++ [**North Sulawesi**](): [Manado]() (capital) | [Bitung]() | [Kotamobagu]() | [Tomohon]()
+
+#### Maluku
++ [**Maluku**](): [Ambon]() (capital) | [Tual]()
++ [**North Maluku**](): [Sofifi]() (capital) | [Ternate]() | [Tidora]()
+
+#### Bali
++ [**Bali**](): [Denpasar]()(capital)
+
+#### Nusa Tenggara
++ [**West Nusa Tenggara**](): [Mataram]() (capital) | [Bima]()
++ [**East Nusa Tenggara**](): [Kupang]() (capital)
+
+#### Papua
++ [**Papua**](): [Jayapura]() (capital)
++ [**West Papua**](): [Manokwari]() (capital)
+
+## E-Planning and E-Budgeting
++ **Ministry e-budgeting**: [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | [Perhubungan](https://eplanning.dephub.go.id/)
++ **Provincies e-budgeting**: 
+  + **Sumatera:** Aceh | [Nort Sumatera](https://eplanning.sumutprov.go.id/backend/web/index.php) | West Sumatera | Riau | Riau Island | Jambi | South Sumatera | Bengkulu | Bangka Belitung | Jambi | [Lampung](http://www.ebudgeting.lampungprov.go.id/)
+  + **Java:** [DKI Jakarta](https://apbd.jakarta.go.id/) | West Java | [Center Java](https://ebudgeting.jatengprov.go.id/) | DI Yogyakarta | [East Java](http://budgeting.jatimprov.go.id:2018/#/main)
+  + **Kalimantan:** [North Kalimantan](http://e-budgeting.kaltaraprov.go.id)
+  + **Sulawesi:** [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/)
+  + **Maluku:** Maluku | North Maluku
+  + **Bali:** Bali
+  + **Nusa Tenggara:** East Nusa Tenggara | West Nusa Tenggara 
+  + **Papua:** [Papua](https://ppa.papua.go.id/landing_ppa/) | West Papua
++ **Cities e-budgeting**: [Bandung](http://apbd.bandung.go.id) | Semarang | [Surabaya](https://ebudgeting.surabaya.go.id/new_portal/) | [Palopo](https://budgeting.palopokota.go.id/) | [Medan](http://ebudgeting.pemkomedan.go.id/)
++ **Regencies e-budgeting**: [Malang](http://e-budgeting.malangkab.go.id/) | [Magelang](http://e-budgeting.magelangkab.go.id/home/) | [Grobogan](http://grms.grobogan.go.id/ebudgeting/) | [Temanggung](https://e-budgeting.temanggungkab.go.id/home/) | [Kudus](http://rpjm.kuduskab.go.id/ebudgeting/) | [Rembang](http://sim.rembangkab.go.id:8081/) | [Tebing Tinggi](http://ebudgeting.tebingtinggikota.go.id/) | [Seluma](https://ebudgeting.selumakab.go.id) | [Langkat](http://ebudgeting.langkatkab.go.id/) | [North Bengkulu](http://e-budgeting.bengkuluutarakab.go.id/web/home) | [Buda Keerom](https://eplanning.keeromkab.go.id/ebudgeting/giadmin)
+
+
 ## Referensi
 + [UU APBN dan Nota Keuangan - Kementrian Keuangan](https://www.kemenkeu.go.id/informasi-publik/uu-apbn-dan-nota-keuangan/)
 + [APBD, Realisasi APBD, dan Neraca - Perimbangan Keuangan - Kementrian Keuangan](http://www.djpk.kemenkeu.go.id/?p=5412)
